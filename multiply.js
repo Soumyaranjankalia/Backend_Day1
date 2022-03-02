@@ -1,5 +1,7 @@
 function multiply() {
-    console.log(5*5);
-    return multiply;
+   let a =5;
+   let b= 5;
+
+    return a*b;
 }
 module.exports = multiply

@@ -1,5 +1,6 @@
 function divide() {
-    console.log(5/5);
-    return divide;
+   let a = 5
+   let b = 5
+    return a/b;
 }
 module.exports = divide

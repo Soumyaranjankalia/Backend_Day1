@@ -3,6 +3,6 @@ const substract = require("./subtract");
 const multiply = require("./multiply");
 const divide =require("./divide")
 console.log(add());
-substract();
-multiply();
-divide();
+console.log(substract());
+console.log(multiply());
+console.log(divide());
